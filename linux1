@@ -2,3 +2,4 @@
 df -h 
 uname -a
 hostname
+ifconfig -a
