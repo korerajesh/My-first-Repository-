@@ -1,5 +1,13 @@
 #!/bin/bash
-df -h 
-uname -a
-hostname
-ifconfig -a
+
+A=20
+B=40
+
+if [ $A -ge $B ]
+then
+ echo "rajeh is goodboy"
+
+else 
+ echo "anudeep is linux admin"
+fi
+
